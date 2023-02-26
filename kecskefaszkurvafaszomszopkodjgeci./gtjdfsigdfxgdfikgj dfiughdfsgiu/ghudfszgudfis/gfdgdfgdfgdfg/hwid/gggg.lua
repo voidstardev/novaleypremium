@@ -1,6 +1,6 @@
 local player = game.Players.LocalPlayer
 
-if player.Name == "RobloxFan20076" and "dontlol90901" and "bobthedummy404" then
+if player.Name == "RobloxFan20076" and "dontlol90901" and "TheSecreLX" and "bobthedummy404" and "TheBoweeR" then
         game:GetService("StarterGui"):SetCore(
             "SendNotification",
             {
