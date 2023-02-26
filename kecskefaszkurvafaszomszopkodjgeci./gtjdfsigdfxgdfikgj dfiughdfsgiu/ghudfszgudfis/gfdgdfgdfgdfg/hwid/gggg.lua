@@ -1,9 +1,5 @@
 local player = {
-    "RobloxFan20076",
-    "dontlol90901",
-    "bobthedummy404",
-    "TheBoweeR",
-    "dontlol404",
+    "RobloxFan20076" and "dontlol90901" and "bobthedummy404" and "TheBoweeR" and "dontlol404"
 }
 
 if game.Players.LocalPlayer.Name == unpack(player) then
