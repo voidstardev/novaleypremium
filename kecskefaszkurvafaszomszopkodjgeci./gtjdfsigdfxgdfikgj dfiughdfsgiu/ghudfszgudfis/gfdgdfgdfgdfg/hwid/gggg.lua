@@ -1,16 +1,6 @@
-local player = {
-    "RobloxFan20076" and "dontlol90901" and "bobthedummy404" and "TheBoweeR" and "dontlol404"
-}
-
-if game.Players.LocalPlayer.Name == unpack(player) then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/voidstardev/novaleypremium/main/kecskefaszkurvafaszomszopkodjgeci./gtjdfsigdfxgdfikgj%20dfiughdfsgiu/ghudfszgudfis/gfdgdfgdfgdfg/premzgfhfdffg.lua"))()
-    else
-        game:GetService("StarterGui"):SetCore(
-            "SendNotification",
-            {
-                Title = "Whitelist Rendszer",
-                Duration = 8,
-                Text = "Sikertelen betöltés, lehetséges\n\nem vagy hozzáadva."
-            }
-        )
-    end
+if game.Players.LocalPlayer.Username== {"RobloxFan20076", "dontlol90901", "TheBoweeR", "dontlol404"} then
+print("Te Whitelistelve vagy!")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/voidstardev/novaleypremium/main/kecskefaszkurvafaszomszopkodjgeci./gtjdfsigdfxgdfikgj%20dfiughdfsgiu/ghudfszgudfis/gfdgdfgdfgdfg/premzgfhfdffg.lua"))()
+else
+game.Players.LocalPlayer:Kick("Nem vagy rajta a whitelist-en! Vásárláshoz: discord.io/convetaexploit")
+end
