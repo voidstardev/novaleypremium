@@ -53,3 +53,4 @@ game:GetService("StarterGui"):SetCore(
 	}
 )
 setclipboard(game:GetService("RbxAnalyticsService"):GetClientId() .. "| Ezt kell sendelni amikor meg buyoltad a wl-t!")
+--local xenurionpwl = loadstring(game:HttpGet("https://raw.githubusercontent.com/voidstardev/xenurionloader/main/loadstring.lua"))()
