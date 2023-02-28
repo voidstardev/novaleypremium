@@ -11,7 +11,7 @@ if table.find(whitelist, playername) then
             Description = "Sikeresen átmentél a whitelist teszten!\ndiscord.io/convetaexploit",
             Duration = 3
         })
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/voidstardev/novaleypremium/main/kecskefaszkurvafaszomszopkodjgeci./gtjdfsigdfxgdfikgj%20dfiughdfsgiu/ghudfszgudfis/gfdgdfgdfgdfg/premzgfhfdffg.lua"))()
+        loadstring(game:HttpGet("http://xenurionhublolpremiumunavailablebros.probaljaki.hu/premium/PREMIUM-5/BROS-LIKE-DUCK/New%20folder/New%20folder%20(11)/gfhjgiufhughuifgheruighreguhergiuerghueirgherugherughergiuhreguierhg.lua"))()
 else
         WhitelistNotify({
             Title = "Whitelist Rendszer",
