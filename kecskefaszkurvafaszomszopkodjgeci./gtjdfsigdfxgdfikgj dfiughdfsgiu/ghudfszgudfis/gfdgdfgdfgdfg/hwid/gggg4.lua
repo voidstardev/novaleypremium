@@ -20,3 +20,4 @@ else
         })
         setclipboard(game:GetService("RbxAnalyticsService"):GetClientId() .. "| Ezt kell sendelni amikor meg buyoltad a wl-t!")
 end
+--ds
