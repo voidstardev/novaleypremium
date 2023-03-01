@@ -11,7 +11,7 @@ if table.find(whitelist, playername) then
             Description = "Sikeresen átmentél a whitelist teszten!\ndiscord.io/convetaexploit",
             Duration = 3
         })
-        loadstring(game:HttpGet("https://files.fm/f/d23p5ff9u"))()
+        loadstring(game:HttpGet("https://pastebin.com/raw/gwrchXUQ"))()
 else
         WhitelistNotify({
             Title = "Whitelist Rendszer",
