@@ -4,7 +4,7 @@ playerid = game.Players.LocalPlayer.UserId
 local NotifLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))()
 local WhitelistNotify = NotifLib.Notify
 
-local whitelist = {'RobloxFan20076', 'dontlol404', 'dontlol90901', 'NightWolfs51', 'TheBoweeR'}
+local whitelist = {'RobloxFan20076', 'dontlol404', 'dontlol90901', 'NightWolfs51', 'TheBoweeR', 'OBC_Trial99'}
 if table.find(whitelist, playername) then
         WhitelistNotify({
             Title = "Whitelist Rendszer",
@@ -18,6 +18,5 @@ else
             Description = "Nem vagy hozzáadva!\nVásárold meg itt:\ndiscord.io/convetaexploit",
             Duration = 3
         })
-        setclipboard(game:GetService("RbxAnalyticsService"):GetClientId() .. "| Ezt kell sendelni amikor meg buyoltad a wl-t!")
 end
 --ds
