@@ -4,7 +4,7 @@ playerid = game.Players.LocalPlayer.UserId
 local NotifLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))()
 local WhitelistNotify = NotifLib.Notify
 
-local whitelist = {'RobloxFan20076', 'dontlol404', 'dontlol90901', 'NightWolfs51', 'TheBoweeR', 'OBC_Trial99'}
+local whitelist = {'RobloxFan20076', 'dontlol404', 'dontlol90901', 'NightWolfs51', 'TheBoweeR', 'OBC_Trial99', 'kincso20133'}
 if table.find(whitelist, playername) then
         WhitelistNotify({
             Title = "Whitelist Rendszer",
